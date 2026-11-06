@@ -1,69 +1,96 @@
-# M.JAHANARA | Developer & Future AI Security Engineer
+# M.JAHANARA | Developer & AI Security Enthusiast
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:390909,100:8B0000&height=220&section=header&text=M.JAHANARA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Think.%20Analyze.%20Protect.&descAlignY=58&descSize=18" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:400000,100:990000&height=220&section=header&text=M.JAHANARA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=THINK.%20ANALYZE.%20PROTECT.&descSize=17&descAlignY=60&animation=fadeIn" />
 
-<a href="https://github.com/M-JAHANARA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FF4545&center=true&vCenter=true&width=650&lines=Python+Developer;Android+Developer;Cybersecurity+Enthusiast;Exploring+AI+Security;Building.+Learning.+Improving." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FF4545&center=true&vCenter=true&width=650&lines=Software+Developer;Python+%7C+C%2B%2B+%7C+JavaScript;Linux+%26+Technology+Enthusiast;Exploring+AI+Security;Building+the+Future+Through+Code" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=M-JAHANARA&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" />
+[![GitHub](https://img.shields.io/badge/GitHub-M.JAHANARA-181717?style=for-the-badge&logo=github)](https://github.com/M-JAHANARA)
+[![Profile Views](https://komarev.com/ghpvc/?username=M-JAHANARA&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)](https://github.com/M-JAHANARA)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 01 / ABOUT ME
 
-Hello! I'm **Mohammad Amin Jahan Ara**, also known as **M.JAHANARA**.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Mohammad Amin Jahan Ara"
+        self.username = "M.JAHANARA"
+        self.role = "Software Developer"
+        self.interests = [
+            "Artificial Intelligence",
+            "Cybersecurity",
+            "Linux Systems",
+            "Software Engineering"
+        ]
+        self.current_goal = "AI Security Engineer"
 
-I'm a developer, technology enthusiast, and aspiring AI Security Engineer who enjoys exploring new technologies and turning ideas into real projects.
+    def motto(self):
+        return "Think. Analyze. Protect."
 
-I believe programming is more than writing code — it's about solving problems, understanding systems, and creating something meaningful.
 
-- 💻 Interested in software development and system engineering.
-- 🐍 Working with Python and exploring its ecosystem.
-- 📱 Exploring Android application development.
-- 🐧 Interested in Linux and cybersecurity.
-- 🤖 Focused on the intersection of Artificial Intelligence and Cybersecurity.
-- 🚀 Always learning, experimenting, and building new things.
+me = Developer()
+```
 
-**My philosophy:**
+Hello! I'm **Mohammad Amin Jahan Ara**, a developer passionate about technology, software engineering, and building innovative projects.
 
-> Think independently. Build intelligently. Secure everything.
+I enjoy learning how systems work, experimenting with different programming languages, and transforming ideas into practical applications.
+
+My long-term ambition is to specialize in **AI Security**, combining artificial intelligence, cybersecurity, and software engineering to build intelligent and secure systems.
+
+**What drives me:**
+- Building real-world software projects.
+- Exploring different programming languages and technologies.
+- Learning Linux and understanding computer systems.
+- Exploring the intersection of AI and cybersecurity.
+- Continuously improving my technical knowledge.
 
 ---
 
-## 🛠️ Technical Skills
+## 02 / TECHNICAL SKILLS
 
 ### Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-### Frameworks & Technologies
+### Web Development
 
 <p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### Libraries & Frameworks
+
+<p>
 <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-### Tools & Platforms
+### Databases & Data Management
+
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Development Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -72,25 +99,43 @@ I believe programming is more than writing code — it's about solving problems,
 
 ---
 
-## 🎯 My Current Focus
+## 03 / CURRENT FOCUS
 
-I'm working toward becoming an AI Security Engineer.
+<details>
+<summary><b>Artificial Intelligence & AI Security</b></summary>
 
-My learning roadmap includes:
+- Understanding AI and Machine Learning.
+- Exploring AI security concepts.
+- Learning about secure AI architectures.
+- Investigating cybersecurity applications of AI.
 
-- Artificial Intelligence and Machine Learning.
-- AI Security and secure AI systems.
-- Cybersecurity fundamentals.
+</details>
+
+<details>
+<summary><b>Cybersecurity & Linux</b></summary>
+
 - Linux system administration.
-- Network security and analysis.
-- Python automation and security tools.
-- Secure software architecture.
+- Network fundamentals.
+- Cybersecurity principles.
+- Security analysis and automation.
+- Ethical security research.
 
-**Long-term vision:** Building intelligent, secure, and reliable systems that combine AI and cybersecurity.
+</details>
+
+<details>
+<summary><b>Software Engineering</b></summary>
+
+- Python application development.
+- Object-Oriented Programming.
+- Database-driven applications.
+- Android development.
+- Full-stack web development.
+
+</details>
 
 ---
 
-## 🚀 Featured Projects
+## 04 / MY PROJECTS
 
 <div align="center">
 
@@ -104,24 +149,26 @@ My learning roadmap includes:
 
 </div>
 
-### 📂 Repository Directory
+### Repository Directory
 
-| Project | Description | Technology |
-|---|---|---|
-| [Nebula Strike](https://github.com/M-JAHANARA/Nebula_Strike) | 2D space shooter game with a futuristic interface | Python, Tkinter |
-| [Music Player](https://github.com/M-JAHANARA/music_player) | Music player application | Kotlin |
+| Repository | Technology | Description |
+|:---|:---|:---|
+| [Nebula Strike](https://github.com/M-JAHANARA/Nebula_Strike) | Python, Tkinter | A 2D space shooter game. |
+| [Music Player](https://github.com/M-JAHANARA/music_player) | Kotlin | An Android music player project. |
+
+[→ Explore all my repositories](https://github.com/M-JAHANARA?tab=repositories)
 
 ---
 
-## 📊 GitHub Statistics
+## 05 / GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-JAHANARA&show_icons=true&theme=transparent&hide_border=true&title_color=FF4545&icon_color=FF4545&text_color=C9D1D9&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-JAHANARA&show_icons=true&hide_border=true&theme=transparent&title_color=FF4545&icon_color=FF4545&text_color=C9D1D9&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-JAHANARA&layout=compact&theme=transparent&hide_border=true&title_color=FF4545&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-JAHANARA&layout=compact&hide_border=true&theme=transparent&title_color=FF4545&text_color=C9D1D9" />
 
-<br/>
+<br/><br/>
 
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-JAHANARA&theme=transparent&hide_border=true&ring=FF4545&fire=FF4545&currStreakLabel=FF4545" />
 
@@ -129,47 +176,50 @@ My learning roadmap includes:
 
 ---
 
-## 📈 Contribution Activity
+## 06 / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-JAHANARA&bg_color=00000000&color=FF4545&line=8B0000&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=M-JAHANARA&bg_color=00000000&color=FF4545&line=990000&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
 ---
 
-## 🧠 Beyond Code
+## 07 / FUTURE VISION
 
-I enjoy exploring ideas that challenge conventional thinking.
+My ultimate goal is to become an **AI Security Engineer** and build technology that makes digital systems smarter, safer, and more reliable.
 
-My interests include:
+My roadmap:
 
-- Artificial Intelligence
-- Cybersecurity
-- Operating Systems
-- Software Architecture
-- Technology Entrepreneurship
-- Creative Engineering
+- [ ] Advance my Python and C/C++ knowledge.
+- [ ] Strengthen Linux and networking fundamentals.
+- [ ] Develop advanced cybersecurity skills.
+- [ ] Study Artificial Intelligence and Machine Learning.
+- [ ] Specialize in AI Security.
+- [ ] Build independent security-focused projects.
+- [ ] Develop my own AI-powered security ecosystem.
 
-I'm particularly interested in building projects that combine multiple technologies into one useful system.
+I believe that great engineers don't just use technology — they understand it, challenge it, and build something better.
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in technology, collaboration, and meaningful development projects.
+## 08 / CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/M-JAHANARA">
-<img src="https://img.shields.io/badge/GitHub-M.JAHANARA-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Building my future, one commit at a time.**
+**Think Independently. Build Intelligently. Secure Everything.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:390909,100:080808&height=120&section=footer" width="100%"/>
+<br/>
+
+<sub>© M.JAHANARA — Always Learning. Always Building.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:990000,50:400000,100:050505&height=120&section=footer"/>
 
 </div>
