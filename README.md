@@ -210,6 +210,7 @@ I believe that great engineers don't just use technology — they understand it,
 
 <sub>© M.JAHANARA — Always Learning. Always Building.</sub>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=M-JAHANARA&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)](https://github.com/M-JAHANARA)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:990000,50:400000,100:050505&height=120&section=footer"/>
 
 </div>
