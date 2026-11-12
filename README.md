@@ -198,9 +198,7 @@ I believe that great engineers don't just use technology — they understand it,
 
 <div align="center">
 
-<a href="https://github.com/M-JAHANARA">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-M.JAHANARA-181717?style=for-the-badge&logo=github)](https://github.com/M-JAHANARA)
 
 <br/><br/>
 
