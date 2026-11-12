@@ -199,7 +199,11 @@ I believe that great engineers don't just use technology — they understand it,
 <div align="center">
 
 <a href="https://github.com/M-JAHANARA">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:400000,100:990000&height=220&section=header&text=M.JAHANARA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=THINK.%20ANALYZE.%20PROTECT.&descSize=17&descAlignY=60&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FF4545&center=true&vCenter=true&width=650&lines=Software+Developer;Python+%7C+C%2B%2B+%7C+JavaScript;Linux+%26+Technology+Enthusiast;Exploring+AI+Security;Building+the+Future+Through+Code" />
+
 </a>
 
 <br/><br/>
@@ -210,7 +214,6 @@ I believe that great engineers don't just use technology — they understand it,
 
 <sub>© M.JAHANARA — Always Learning. Always Building.</sub>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=M-JAHANARA&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)](https://github.com/M-JAHANARA)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:990000,50:400000,100:050505&height=120&section=footer"/>
 
 </div>
