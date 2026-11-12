@@ -164,6 +164,8 @@ My long-term ambition is to specialize in **AI Security**, combining artificial 
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-JAHANARA&show_icons=true&hide_border=true&theme=transparent&title_color=FF4545&icon_color=FF4545&text_color=C9D1D9&include_all_commits=true" />
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-JAHANARA&layout=compact&hide_border=true&theme=transparent&title_color=FF4545&text_color=C9D1D9" />
 
 <br/><br/>
