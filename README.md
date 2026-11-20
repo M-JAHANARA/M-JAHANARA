@@ -147,6 +147,10 @@ My long-term ambition is to specialize in **AI Security**, combining artificial 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-JAHANARA&repo=music_player&theme=transparent&hide_border=true&title_color=FF4545&text_color=C9D1D9&icon_color=FF4545" />
 </a>
 
+<a href="MJAOfflineMessenger">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=M-JAHANARA&repo=MJAOfflineMessenger&theme=transparent&hide_border=true&title_color=FF4545&text_color=C9D1D9&icon_color=FF4545" />
+</a>
+
 </div>
 
 ### Repository Directory
