@@ -151,6 +151,10 @@ My long-term ambition is to specialize in **AI Security**, combining artificial 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-JAHANARA&repo=MJAOfflineMessenger&theme=transparent&hide_border=true&title_color=FF4545&text_color=C9D1D9&icon_color=FF4545" />
 </a>
 
+<a href="WEB">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=M-JAHANARA&repo=WEB&theme=transparent&hide_border=true&title_color=FF4545&text_color=C9D1D9&icon_color=FF4545" />
+</a>
+
 </div>
 
 ### Repository Directory
@@ -158,10 +162,10 @@ My long-term ambition is to specialize in **AI Security**, combining artificial 
 | Repository | Technology | Description |
 |:---|:---|:---|
 | [Nebula Strike](https://github.com/M-JAHANARA/Nebula_Strike) | Python, Tkinter | A 2D space shooter game. |
-| [Music Player](https://github.com/M-JAHANARA/music_player) | Kotlin | An Android music player project. |
+| [Music Player](https://github.com/M-JAHANARA/music_player) | | Kotlin | An Android music player project. |
 
 [→ Explore all my repositories](https://github.com/M-JAHANARA?tab=repositories)
-
+B 
 ---
 
 ## 05 / GITHUB STATISTICS
