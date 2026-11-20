@@ -163,10 +163,9 @@ My long-term ambition is to specialize in **AI Security**, combining artificial 
 |:---|:---|:---|
 | [MJAOfflineMessenger](https://github.com/M-JAHANARA/MJAOfflineMessenger) | Kotlin | A Offline Messenger, With out Internet. |
 | [Nebula Strike](https://github.com/M-JAHANARA/Nebula_Strike) | Python, Tkinter | A 2D space shooter game. |
+| [WEB](https://github.com/M-JAHANARA/WEB) | Html, Css, Js, pop, Bootstrap, Django| A 2D space shooter game. |
 | [Music Player](https://github.com/M-JAHANARA/music_player) | Kotlin | An Android music player project. |
 
-[→ Explore all my repositories](https://github.com/M-JAHANARA?tab=repositories)
-B 
 ---
 
 ## 05 / GITHUB STATISTICS
